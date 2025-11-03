@@ -1843,12 +1843,12 @@ input, select, textarea {
 					background-color: #DA2713;
 				}
 
-				ul.social li a.fa-github {
-					background-color: #FAFAFA;
-				}
-
 				ul.social li a.fa-rss {
 					background-color: #F2600B;
+				}
+
+				ul.social li a.fa-graduation-cap {
+					background-color: #f20b0b;
 				}
 
 				ul.social li a.fa-instagram {
